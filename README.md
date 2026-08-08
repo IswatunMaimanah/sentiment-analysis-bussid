@@ -19,3 +19,10 @@ The study compares three machine learning algorithms:
 - Logistic Regression
 
 The research has also been published in the SMATIKA Journal.
+
+## 📚 Publication
+
+This research has been published in the **SMATIKA Journal**.
+
+📄 **Journal Article:**  
+[Sentiment Analysis of User Reviews on the Bus Simulator Indonesia Application Using Machine Learning Approaches](https://jurnal.ubhinus.ac.id/index.php/SMATIKA/article/view/2285)
